@@ -1,3 +1,5 @@
-".source.kv":
-  editor:
-    commentStart: "# "
+'.source.kv':
+  'editor':
+    'commentStart': '# '
+    'softTabs': true
+    'increaseIndentPattern': '*:'
