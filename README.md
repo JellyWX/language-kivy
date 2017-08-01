@@ -1,9 +1,13 @@
 # language-kivy package
 
-Language definition for the Kivy language in Atom.
+A continuation of Ramalus's language-kivy definitions, until any merge occurs
 
 
 # Changelog
+
+## 0.1.2
+* More keywords
+* Temporarily taken over from Ramalus
 
 ## 0.1.1 - Update
 * Adding new keywords
