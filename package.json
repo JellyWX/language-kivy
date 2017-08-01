@@ -1,11 +1,12 @@
 {
-  "name": "language-kivy",
-  "version": "0.1.1",
-  "description": "Language definition for the Kivy Language",
+  "name": "language-kivy-updated",
+  "version": "0.1.2",
+  "description": "Continuation of language definition for the Kivy Language",
   "keywords": [
-    "kivy"
+    "kivy",
+    "kv"
   ],
-  "repository": "https://github.com/Ramalus/language-kivy.git",
+  "repository": "https://github.com/JellyWX/language-kivy.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
